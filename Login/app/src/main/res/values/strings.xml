@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NextHealth</string>
+    <string name="title_activity_tab">Tab</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Login">เข้าสู่ระบบ</string>
+    <string name="forgetpassword">ลืมรหัสผ่าน</string>
+    <string name="facebook_app_id">146138302723320</string>
+</resources>
